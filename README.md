@@ -99,23 +99,4 @@ Contenido del video (duración: 3–5 minutos):
 
 ---
 
-## 🧪 Requisitos
-
-Instala los paquetes con:
-
-```bash
-pip install -r requirements.txt
-```
-
-Librerías principales:
-- `numpy`
-- `pandas`
-- `scikit-learn`
-- `matplotlib`, `seaborn`
-- `umap-learn`
-- `torch`, `torchvision`
-- `optuna`
-- `ipywidgets` o `streamlit` (opcional para dashboard)
-
----
 
